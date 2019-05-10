@@ -1,3 +1,5 @@
+Chapter 1: What do we mean by Leadership?
+
 7 things that leaders do more than managers
 Innovate
 Develop
@@ -16,10 +18,6 @@ Ask How and When
 Imitate
 Accept the status quo
 
-2 Types of Learning
-Single Loop | Low feedback
-Double-Loop | High feedback
-
 5 P’s of Leadership
 Position
 Permission
@@ -27,10 +25,25 @@ Production
 People development
 Pinnacle/personhood
 
+Chapter 2: Leader Development
+
+2 Types of Learning
+Single-Loop | Low feedback
+Double-Loop | High feedback
+
 AOR acronym
 Action
 Observation
 Reflection
+
+5 Steps for informal coaching
+Forge a partnership
+Inspire commitment
+Grow Skills
+Promote Persistence
+Shape the environment
+
+Chapter 3: Skills for Developing Yourself as a Leader
 
 (Your first 90 days as a leader) Before you Start
 Prehire data gathering
@@ -52,10 +65,10 @@ Establish Culture
 Team off-site
 
 GAPS
-Goals
-Abilities
-Perceptions
-Standards
+Goals | Where do you want to go?
+Abilities | What can you do now?
+Perceptions | How do others see you?
+Standards | What does your boss or the organization expect?
 
 Gaps of Gaps Analysis
 Career and development objectives
@@ -65,10 +78,12 @@ Whom to involve and when to reassess dates
 Stretch Assignments
 Resources
 
+Chapter 4: Power and Influence
+
 5 Sources of Power
 Expert
 Referent
-Legitimate
+Legitimate 
 Reward
 Coercive
 
@@ -77,11 +92,13 @@ Rational persuasion
 Inspirational appeals
 Consultation
 Ingratiation
-Personal appeals
-Exchange
-Coalition tactics
-Pressure tactics
-Legitimizing tactics
+Personal appeals 
+Exchange 
+Coalition tactics 
+Pressure tactics 
+Legitimizing tactics 
+
+Chapter 5: Values, Ethics, and Character
 
 2 types of values
 Instrumental values
@@ -110,12 +127,16 @@ Integrity | Core ideology in the fabric of every level and unit of the organizat
 Structural Reinforcement | Structure and systems support ethical action
 Process Focus | Define a process to meet goals so F won’t do bad things instead
 
+Chapter 6: Leadership Attributes
+
 OCEAN Model
 Openness to experience
 Conscientiousness
 Extraversion
 Agreeableness
 Neuroticism
+
+Chapter 7: Leadership Behavior
 
 Four major categories of skills
 Intrapersonal Skills
@@ -127,16 +148,36 @@ Ohio State study Dimensions
 Initiating Structure
 Consideration
 
+University of Michigan Dimensions
+Goal emphasis
+Work facilitation
+Leader support
+Interaction facilitation
+
+The Leadership Grid Dimensions
+Concern for Results | X axis
+Concern for People | Y axis
+
 Leadership Grid Model
-(1,1) Impoverished Management
-(1,9) Country Club management
-(9,1) Authority Compliance Management
-(9,9) Team Management
-(5,5) Middle of the road management
+Impoverished Management | (1,1) 
+Country Club management | (1,9) 
+Authority Compliance Management | (9,1) 
+Team Management | (9,9) 
+Middle of the road management | (5,5) 
+
+Chapter 8: Skills for Building Personal Credibility and Influencing Others
 
 Two Components of Credibility
-Expertise
+Expertise 
 Trust
+
+2 Axes of the credibility Matrix (4 1 3 2)
+Expertise | (X axis)
+Trust | (Y axis)
+
+2 steps to build trust
+Clarify and communicate your values
+Build relationships with others
 
 The three A’s of interacting with others
 Assertiveness
@@ -146,8 +187,8 @@ Aggression
 Tips for running meetings
 Determine whether it is necessary
 List objectives
-Stick to Agenda
-Provide support materials in advance
+Stick to Agenda 
+Provide pertinent materials in advance
 Make it convenient
 Encourage participation
 Keep a record
@@ -173,6 +214,13 @@ Developing alternative solutions
 Selecting and implementing the best solution
 Assessing the impact of the solution
 
+Chapter 9: Motivation, Satisfaction, and Performance
+
+Motivation = Anything that provides ___1___, ___2___, and ___3___ to behavior
+Direction
+Intensity
+Persistence
+
 Maslow’s Hierarchy of Needs
 Self-actualization needs
 Esteem needs
@@ -180,26 +228,89 @@ Belongingness needs
 Security needs
 Physiological needs
 
+Chapter 10: Groups, Teams and their Leadership
+
+Teams generally have more _____ than Groups
+Sense of Identification
+Common goals/tasks
+Task interdependence
+More differentiated and specialized roles
+
 4 Stages of Group Development
 Forming
 Storming
 Norming
 Performing
 
-Good goals
-Should be specific and observable
-Should be attainable but challenging
+Characteristics of good teams
+Clear mission
+High performance standards
+Resources and Equipment| L needs to make sure
+Technical Skills | L needs to assess
+Communication
+Low interpersonal conflict
+
+3 High-level groups of Systems Theory applied to teams / TLM (iceberg) 
+Output
+Process
+Input
+
+3 Sub-groups of TLM inputs
+Individual characteristics
+Team factors
+Organizational Systems
+
+3 Critical functions for team leadership
+Dream
+Design
+Develop
+
+TLM1: Effort (PITO)
+Effort | (P)
+Motivation and Interests | (I)
+Team Task | (T)
+Reward Systems | (O)
+
+TLM2: Knowledge and Skills (PITO)
+Knowledge and Skills | (P)
+Skills and abilities | (I)
+Team composition | (T)
+Education Systems | (O)
+
+TLM3 Strategy (PITO)
+Strategy | (P) 
+Values and Attitudes | (I)
+Team Norms | (T)
+Information Systems | (O)
+
+TLM4: Group Dynamics (PITO)
+Group Dynamics | (P)
+Interpersonal Behaviors | (I)
+Authority Dynamics | (T)
+Control Systems | (O)
+
+4 Sides of TLM
+Effort
+Knowledge and skills
+Strategy
+Group dynamics
+
+Chapter 11: Skills for Developing Others
+
+Good goals (SMART + stuff)
+Specific and observable
+Attainable but challenging
 Require commitment
 Require feedback
 
 The Rocket Model
 Mission
-Talent
+Talent 
 Norms
-Buy-in
+Buy-in 
 Power
 Morale
-Results
+Results 
 Context
 
 Why delegation is important
@@ -210,19 +321,36 @@ Strengthens organization
 Why delegation is avoided:
 Takes too much time
 Risky
-Job will not be done well
+Job will not be done as well
 Task is desirable
-Others are too busy
+Others are already too busy
 
-5 Theories of Leadership
-Contingency
+Chapter 12: The Situation
+
+6 GLOBE Dimensions (applicable across all cultures):
+Charismatic/value-based leadership | Ability to inspire and motivate based on core values
+Team-oriented leadership | effective team building
+Participative leadership | Degree to which managers involve others in making and implementing decisions
+Humane-oriented leadership | Supportive and considerate, compassion, generosity
+Autonomous leadership | Independent and individualistic leadership
+Self-protective leadership | ensuring the security and safety of the individual / group member
+
+Chapter 13: Contingency Theories of Leadership
+
+Name the 5 Theories of Leadership
+Leader-Member Exchange Theory
+Normative Decision Model
+Situational Leadership Model
+The Contingency Model
 Path Goal Theory
-LMX
-Situational Leadership
-Normative Decision model
+
+Chapter 14: Leadership and Change
 
 Leadership and Change Formula
 Change = Dissatisfaction * Model * Process > Resistance
+
+
+Chapter 15: The Dark Side of Leadership
 
 5 Common behaviors of derailment
 Failure to meet business objectives
@@ -238,3 +366,50 @@ Lack of situational and self awareness
 Lack of intelligence, technical-expertise, or team know-how
 Poor followership
 Dark side personality traits
+
+Dark-side personality Traits
+Excitable  | mood swings, outbursts
+Skeptical | mistrust of others
+Cautious | Don’t make decisions cuz afraid of making dumb mistakes
+Reserved | Become withdrawn during times of stress
+Leisurely | Passive-aggressive, procrastinate
+Bold | Narcissistic taskmasters
+Mischievous | Charming, Slytherin
+Colorful | Want to be the center of attention
+Imaginative | Eccentric, odd
+Diligent | Micromanagement, inability to delegate., disempowerment
+Dutiful | Spineless, ingratiating superiors, won’t stand up to staffs
+
+Chapter 16: Skills for optimizing Leadership as Situations Change
+
+Parts of a compelling Vision
+Ideas 
+Expectations 
+Emotional energy 
+Edge 
+
+Positive Effects of Conflict
+Increased Effort
+Feelings get aired
+Better understanding of others
+Impetus for change
+Better decision making
+Key issues surface
+Critical thinking stimulated
+
+Possible Negative Effects of Conflict
+Reduced productivity
+Decreased communication
+Negative feelings
+Stress
+Poorer decision making
+Decreased cooperation
+Political backstabbing
+
+5 General approaches to managing conflict
+Competition | Win-lose (domination)
+Accomodation | Lose-win (appeasement)
+Sharing | Sorta-Sorta (compromise) 
+Collaboration | Win-win (integration)
+Avoidance | Lose-lose (neglect)
+
